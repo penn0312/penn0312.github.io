@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/penn0312/penn0312.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/penn0312/penn0312.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#EXTM3U
+#EXTINF:-1 ,CCTV-1综合
+http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 ,CCTV-3综艺
+http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:-1 ,CCTV-5体育
+http://39.134.66.110/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 ,CCTV-5+赛事
+http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1 ,CCTV-6电影
+http://39.134.66.110/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1 ,CCTV-7军事
+http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 ,CCTV-8电视剧
+http://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8
+#EXTINF:-1 ,CCTV-9纪录
+http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 ,CCTV-10科教
+http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 ,CCTV-12社会
+http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 ,CCTV-14少儿
+http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 ,CCTV-17农业
+http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 ,浙江卫视
+http://39.134.66.110/PLTV/88888888/224/3221225514/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://39.134.66.110/PLTV/88888888/224/3221225882/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://39.134.66.110/PLTV/88888888/224/3221225865/index.m3u8
+#EXTINF:-1 ,广东卫视
+http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8
+#EXTINF:-1 ,南方卫视*
+http://39.135.138.60:18890/PLTV/88888910/224/3221226203/index.m3u8
+#EXTINF:-1 ,南方卫视
+http://117.148.179.160/PLTV/88888888/224/3221231661/index.m3u8
+#EXTINF:-1 ,嘉佳卡通
+http://117.148.179.144/PLTV/88888888/224/3221231483/index.m3u8
+#EXTINF:-1 ,广州南国都市
+https://aplay.gztv.com/sec/shenghuos.m3u8
+#EXTINF:-1 ,广州竞赛
+https://aplay.gztv.com/sec/jingsai.m3u8
+#EXTINF:-1 ,广州新闻
+https://aplay.gztv.com/sec/xinwen.m3u8
+#EXTINF:-1 ,广州影视
+https://aplay.gztv.com/sec/yingshi.m3u8
+#EXTINF:-1 ,广州法治
+https://aplay.gztv.com/sec/fazhi.m3u8
+#EXTINF:-1 ,广州综合
+https://aplay.gztv.com/sec/zhonghe.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://111.20.33.71/PLTV/88888888/224/3221225744/index.m3u8
